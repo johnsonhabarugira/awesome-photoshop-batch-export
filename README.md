@@ -58,7 +58,7 @@ Saving each manually is slow and error-prone — but with this script, you can:
 Clone it directly from GitHub:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/awesome-photoshop-batch-export.git
+git clone https://github.com/johnsonhabarugira/awesome-photoshop-batch-export.git
 ```
 
 Or click **“Download ZIP”** from the repository page and extract it.
@@ -162,7 +162,7 @@ Creative Developer • Motion/Graphic Designer • Automation Enthusiast
 📸 Helping photographers and designers save time through smart creative tools.  
 
 📧 [habarugirajohnson@gmail.com](mailto:habarugirajohnson@gmail.com)  
-🌐 [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+🌐 [github.com/YOUR_USERNAME](https://github.com/johnsonhabarugira)  
 
 ---
 
